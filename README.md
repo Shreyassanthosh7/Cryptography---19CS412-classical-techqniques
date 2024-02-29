@@ -255,7 +255,7 @@ return 0;
 
 OUTPUT :
 
-<img width="356" alt="image" src="https://github.com/AlluguriSrikrishnateja/cryptography_19CS412_classical_techniques/assets/118343892/dc34a668-eaa6-43ef-ad40-c2e971429816">
+![WhatsApp Image 2024-02-29 at 13 40 03_1f2c7285](https://github.com/Shreyassanthosh7/Cryptography---19CS412-classical-techqniques/assets/119393191/1fa3e01f-31c7-4d33-8a6c-f471c3be44be)
 
 
 
@@ -346,7 +346,7 @@ return 0;
 
 OUTPUT :
 
-<img width="299" alt="image" src="https://github.com/AlluguriSrikrishnateja/cryptography_19CS412_classical_techniques/assets/118343892/d729468c-607b-48cb-b16a-78c6ee4245f2">
+![WhatsApp Image 2024-02-29 at 13 50 34_684aa841](https://github.com/Shreyassanthosh7/Cryptography---19CS412-classical-techqniques/assets/119393191/cd1624a6-273f-4644-8ed7-5d1b74246a4c)
 
 
 
@@ -490,7 +490,7 @@ AIM :
 To write a C program to implement the rail fence transposition technique.
 
 
-ALGORRITHM :
+ALGORITHM :
 
 Step 1 :
 
@@ -572,7 +572,7 @@ return 0;
 
 OUTPUT :
 
-<img width="347" alt="image" src="https://github.com/AlluguriSrikrishnateja/cryptography_19CS412_classical_techniques/assets/118343892/2f7866e5-d770-4600-9b0d-41efac2debf9">
+![WhatsApp Image 2024-02-29 at 13 53 46_e3d2fbc3](https://github.com/Shreyassanthosh7/Cryptography---19CS412-classical-techqniques/assets/119393191/76dacd90-03f3-4a1e-aaa9-f9c7eda46d3a)
 
 
 
