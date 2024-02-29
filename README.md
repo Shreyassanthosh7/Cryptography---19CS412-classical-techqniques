@@ -77,7 +77,7 @@ return 0;
 
 OUTPUT :
 
-<img width="365" alt="image" src="https://github.com/AlluguriSrikrishnateja/cryptography_19CS412_classical_techniques/assets/118343892/d38dd9a3-4ac3-421b-af80-0240df7aa8c9">
+<img width="365" alt="image" src="![WhatsApp Image 2024-02-29 at 13 30 10_a6fd89c8](https://github.com/Shreyassanthosh7/Cryptography---19CS412-classical-techqniques/assets/119393191/3cee9892-30f7-428e-ad6b-4d67715205c4)">
 
 
 
@@ -475,7 +475,6 @@ return 0;
 
 OUTPUT :
 
-![WhatsApp Image 2024-02-29 at 13 30 10_a6fd89c8](https://github.com/Shreyassanthosh7/Cryptography---19CS412-classical-techqniques/assets/119393191/789c7a2c-a36b-45fd-b460-2c659f4b33bb)
 
 
 RESULT :
