@@ -255,7 +255,7 @@ return 0;
 
 OUTPUT :
 
-![WhatsApp Image 2024-02-29 at 14 27 48_714c4626](https://github.com/Shreyassanthosh7/Cryptography---19CS412-classical-techqniques/assets/119393191/5b4eb295-5bcd-45d9-b168-f4857d2c6474)
+![WhatsApp Image 2024-02-29 at 22 11 03_5533836e](https://github.com/Shreyassanthosh7/Cryptography---19CS412-classical-techqniques/assets/119393191/8aa6bd0a-0c08-476f-8756-f51a91ced5de)
 
 
 
@@ -474,7 +474,8 @@ return 0;
 ```
 
 OUTPUT :
-![WhatsApp Image 2024-02-29 at 14 01 33_61af5088](https://github.com/Shreyassanthosh7/Cryptography---19CS412-classical-techqniques/assets/119393191/0f2b7635-6cf1-4826-a04e-3aafee5ed488)
+
+![WhatsApp Image 2024-02-29 at 22 11 03_0032d2d3](https://github.com/Shreyassanthosh7/Cryptography---19CS412-classical-techqniques/assets/119393191/9fea0f90-7e29-46fe-aedd-f90e892a56f5)
 
 
 
