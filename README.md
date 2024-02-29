@@ -77,7 +77,7 @@ return 0;
 
 OUTPUT :
 
-<img width="365" alt="image" src="![WhatsApp Image 2024-02-29 at 13 30 10_a6fd89c8](https://github.com/Shreyassanthosh7/Cryptography---19CS412-classical-techqniques/assets/119393191/3cee9892-30f7-428e-ad6b-4d67715205c4)">
+![WhatsApp Image 2024-02-29 at 13 30 10_a6fd89c8](https://github.com/Shreyassanthosh7/Cryptography---19CS412-classical-techqniques/assets/119393191/e40eb49a-a309-4083-99e9-7a77c4a3fd6c)
 
 
 
