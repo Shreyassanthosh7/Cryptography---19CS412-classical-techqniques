@@ -347,6 +347,7 @@ return 0;
 OUTPUT :
 
 ![Screenshot 2024-03-01 132641](https://github.com/Shreyassanthosh7/Cryptography---19CS412-classical-techqniques/assets/119393191/d620f126-3f07-4acd-8ed2-d7bd03eacf5a)
+
 ![Screenshot 2024-03-01 131856](https://github.com/Shreyassanthosh7/Cryptography---19CS412-classical-techqniques/assets/119393191/3bdf8336-77c9-473b-b96b-ed99d01bc891)
 
 
